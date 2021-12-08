@@ -1,0 +1,39 @@
+.img{
+    height: 200px;
+    width: 150px;
+}
+.img-large{
+    height: 500px;
+    width: 400px;
+}
+.img-small{
+    height: 90px;
+    width: 50px;
+}
+.img-box{
+    height: 100px;
+    width: 100px;
+}
+.pointer{
+    cursor: pointer;
+}
+.box{
+    height: 200px;
+}
+.vertical{
+    border-left: 2px solid #313A46;
+}
+
+.search_style{
+    width:700px; height:50px; border-radius: 12px;
+}
+.boxer_input{
+    width:400px; height:50px; border-radius: 12px;
+}
+.boxer{
+    width: 600px;
+}
+
+.justify{
+    text-align: center;
+}
